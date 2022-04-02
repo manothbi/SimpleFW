@@ -31,7 +31,7 @@ The recommended way to install Silex is through `Composer`_:
 
 .. code-block:: bash
 
-    composer require Simfra/Simfra
+    composer require manothbi/simple-fw
 
 Alternatively, you can download the `simfra.zip`_ file and extract it.
 
